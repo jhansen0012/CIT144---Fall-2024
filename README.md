@@ -1,0 +1,1 @@
+This program was built in Junse of 2024 while I was taking CIT120 at JCTC in Louisville, KY. There is not much to it; the program itself is just a cluster of if statements, but it was this project that helped me understand how if loops and statements actually work. I am actually pretty proud of this. 
